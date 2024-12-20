@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v4#" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-3.xsd">
+    <Description>
+        <MeasurementUnit>pixel</MeasurementUnit>
+        <sourceImageInformation>
+            <fileName>ark_15733_2z7d_ark_15733_2q09_BIS_00_00618_P024_0011.jpg</fileName>
+        </sourceImageInformation>
+        <Processing ID="OCR_1">
+            <processingCategory>contentGeneration</processingCategory>
+            <processingStepDescription>Text line recognition</processingStepDescription>
+            <processingStepSettings>text_direction: horizontal-tb; models: catmus-print-fondue-large.mlmodel; pad: 16; bidi_reordering: True; </processingStepSettings>
+            <processingSoftware>
+                <softwareName>kraken</softwareName>
+                <softwareVersion>4.3.13</softwareVersion>
+            </processingSoftware>
+        </Processing>
+    </Description>
+    <Tags>
+        <OtherTag ID="TYPE_1" LABEL="default"/>
+    </Tags>
+    <Layout>
+        <Page WIDTH="2520" HEIGHT="3280" PHYSICAL_IMG_NR="11" ID="page_11">
+            <PrintSpace HPOS="0" VPOS="0" WIDTH="2520" HEIGHT="3280">
+                <TextBlock ID="textblock_1">
+                    
+                    <TextLine ID="line_0" HPOS="317.0" VPOS="617.0" WIDTH="113.0" HEIGHT="77.0" BASELINE="319.0 677.0 430.0 679.0" TAGREFS="TYPE_1">
+                        <Shape>
+                            <Polygon POINTS="319.0 677.0 317.0 694.0 428.0 694.0 430.0 679.0 430.0 646.0 395.0 645.0 381.0 635.0 357.0 617.0 355.0 617.0 353.0 617.0 351.0 617.0 319.0 619.0 319.0 677.0"/>
+                        </Shape>
+                        <String CONTENT=""/>
+                    </TextLine>
+
+                    
+                    <TextLine ID="line_1" HPOS="503.0" VPOS="2749.0" WIDTH="266.0" HEIGHT="71.0" BASELINE="505.0 2793.0 769.0 2786.0" TAGREFS="TYPE_1">
+                        <Shape>
+                            <Polygon POINTS="505.0 2793.0 505.0 2820.0 767.0 2808.0 769.0 2786.0 764.0 2749.0 503.0 2755.0 505.0 2793.0"/>
+                        </Shape>
+                        <String CONTENT=""/>
+                    </TextLine>
+
+                    
+                    <TextLine ID="line_2" HPOS="1022.0" VPOS="2645.0" WIDTH="37.0" HEIGHT="91.0" BASELINE="1026.0 2693.0 1057.0 2691.0" TAGREFS="TYPE_1">
+                        <Shape>
+                            <Polygon POINTS="1026.0 2693.0 1028.0 2736.0 1059.0 2731.0 1057.0 2691.0 1052.0 2645.0 1022.0 2651.0 1026.0 2693.0"/>
+                        </Shape>
+                        <String CONTENT=""/>
+                    </TextLine>
+
+                    
+                    <TextLine ID="line_3" HPOS="1095.0" VPOS="2727.0" WIDTH="10.0" HEIGHT="95.0" BASELINE="1095.0 2786.0 1105.0 2786.0" TAGREFS="TYPE_1">
+                        <Shape>
+                            <Polygon POINTS="1095.0 2822.0 1105.0 2822.0 1105.0 2786.0 1105.0 2729.0 1097.0 2727.0 1095.0 2786.0 1095.0 2822.0"/>
+                        </Shape>
+                        <String CONTENT=""/>
+                    </TextLine>
+
+                    
+                    <TextLine ID="line_4" HPOS="1466.0" VPOS="1164.0" WIDTH="38.0" HEIGHT="87.0" BASELINE="1469.0 1208.0 1502.0 1206.0" TAGREFS="TYPE_1">
+                        <Shape>
+                            <Polygon POINTS="1469.0 1208.0 1471.0 1251.0 1504.0 1251.0 1502.0 1206.0 1497.0 1164.0 1466.0 1166.0 1469.0 1208.0"/>
+                        </Shape>
+                        <String ID="segment_0" CONTENT="1" HPOS="1467" VPOS="1166" WIDTH="6" HEIGHT="85" WC="0.991">
+                            <Shape>
+                                <Polygon POINTS="1467 1166 1473 1251 1473 1251 1467 1166"/>
+                            </Shape>
+                            <Glyph ID="char_0" CONTENT="1" HPOS="1467" VPOS="1166" WIDTH="6" HEIGHT="85" GC="0.991">
+                                <Shape>
+                                    <Polygon POINTS="1467 1166 1473 1251 1473 1251 1467 1166"/>
+                                </Shape>
+                            </Glyph>
+                        </String>
+                    </TextLine>
+
+                </TextBlock>
+            </PrintSpace>
+        </Page>
+    </Layout>
+</alto>

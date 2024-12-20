@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v4#" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-3.xsd">
+    <Description>
+        <MeasurementUnit>pixel</MeasurementUnit>
+        <sourceImageInformation>
+            <fileName>ark_15733_2z7d_ark_15733_2q09_BIS_00_00618_P000_0007.jpg</fileName>
+        </sourceImageInformation>
+        <Processing ID="OCR_0">
+            <processingCategory>other</processingCategory>
+            <processingStepDescription>unknown</processingStepDescription>
+            <processingSoftware>
+                <softwareName>kraken</softwareName>
+                <softwareVersion>4.3.13</softwareVersion>
+            </processingSoftware>
+        </Processing>
+    </Description>
+    <Tags>
+        <OtherTag ID="TYPE_1" LABEL="MainZone-Date"/>
+        <OtherTag ID="TYPE_2" LABEL="MainZone-Sp-Continued"/>
+        <OtherTag ID="TYPE_3" LABEL="MarginTextZone-ManuscriptAddendum"/>
+        <OtherTag ID="TYPE_4" LABEL="DropCapitalZone"/>
+        <OtherTag ID="TYPE_5" LABEL="TableZone-Head"/>
+        <OtherTag ID="TYPE_6" LABEL="PageTitleZone"/>
+        <OtherTag ID="TYPE_7" LABEL="GraphicZone-Part"/>
+        <OtherTag ID="TYPE_8" LABEL="NumberingZone"/>
+        <OtherTag ID="TYPE_9" LABEL="FigureZone-Head"/>
+        <OtherTag ID="TYPE_10" LABEL="GraphicZone-TextualContent"/>
+        <OtherTag ID="TYPE_11" LABEL="DigitizationArtefactZone"/>
+        <OtherTag ID="TYPE_12" LABEL="MainZone-List"/>
+        <OtherTag ID="TYPE_13" LABEL="MainZone-Entry"/>
+        <OtherTag ID="TYPE_14" LABEL="FigureZone-FigDesc"/>
+        <OtherTag ID="TYPE_15" LABEL="GraphicZone-Maths"/>
+        <OtherTag ID="TYPE_16" LABEL="MainZone-Lg"/>
+        <OtherTag ID="TYPE_17" LABEL="StampZone-Sticker"/>
+        <OtherTag ID="TYPE_18" LABEL="MarginTextZone-Notes-Continued"/>
+        <OtherTag ID="TYPE_19" LABEL="QuireMarkZone"/>
+        <OtherTag ID="TYPE_20" LABEL="MainZone-Sp"/>
+        <OtherTag ID="TYPE_21" LABEL="PageTitleZone-Index"/>
+        <OtherTag ID="TYPE_22" LABEL="GraphicZone-Head"/>
+        <OtherTag ID="TYPE_23" LABEL="MainZone-Lg-Continued"/>
+        <OtherTag ID="TYPE_24" LABEL="FigureZone"/>
+        <OtherTag ID="TYPE_25" LABEL="GraphicZone-FigDesc"/>
+        <OtherTag ID="TYPE_26" LABEL="TableZone"/>
+        <OtherTag ID="TYPE_27" LABEL="StampZone"/>
+        <OtherTag ID="TYPE_28" LABEL="GraphicZone"/>
+        <OtherTag ID="TYPE_29" LABEL="MainZone-Other"/>
+        <OtherTag ID="TYPE_30" LABEL="RunningTitleZone"/>
+        <OtherTag ID="TYPE_31" LABEL="MainZone-Signature"/>
+        <OtherTag ID="TYPE_32" LABEL="MainZone-P"/>
+        <OtherTag ID="TYPE_33" LABEL="MainZone-List-Continued"/>
+        <OtherTag ID="TYPE_34" LABEL="MainZone-Head"/>
+        <OtherTag ID="TYPE_35" LABEL="MainZone-P-Continued"/>
+        <OtherTag ID="TYPE_36" LABEL="GraphicZone-Decoration"/>
+        <OtherTag ID="TYPE_37" LABEL="MarginTextZone-Notes"/>
+        <OtherTag ID="TYPE_38" LABEL="AdvertisementZone"/>
+        <OtherTag ID="TYPE_39" LABEL="MainZone-Entry-Continued"/>
+        <OtherTag ID="TYPE_40" LABEL="MainZone-Form"/>
+        <OtherTag ID="TYPE_41" LABEL="TableZone-Continued"/>
+    </Tags>
+    <Layout>
+        <Page WIDTH="2696" HEIGHT="3352" PHYSICAL_IMG_NR="7" ID="page_7">
+            <PrintSpace HPOS="0" VPOS="0" WIDTH="2696" HEIGHT="3352">
+            </PrintSpace>
+        </Page>
+    </Layout>
+</alto>

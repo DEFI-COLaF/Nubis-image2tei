@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v4#" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-3.xsd">
+    <Description>
+        <MeasurementUnit>pixel</MeasurementUnit>
+        <sourceImageInformation>
+            <fileName>ark_15733_2z7d_ark_15733_2q09_BIS_00_00618_P000_0009.jpg</fileName>
+        </sourceImageInformation>
+        <Processing ID="OCR_1">
+            <processingCategory>contentGeneration</processingCategory>
+            <processingStepDescription>Text line recognition</processingStepDescription>
+            <processingStepSettings>text_direction: horizontal-tb; models: catmus-print-fondue-large.mlmodel; pad: 16; bidi_reordering: True; </processingStepSettings>
+            <processingSoftware>
+                <softwareName>kraken</softwareName>
+                <softwareVersion>4.3.13</softwareVersion>
+            </processingSoftware>
+        </Processing>
+    </Description>
+    <Tags>
+        <OtherTag ID="TYPE_1" LABEL="default"/>
+    </Tags>
+    <Layout>
+        <Page WIDTH="2880" HEIGHT="3520" PHYSICAL_IMG_NR="9" ID="page_9">
+            <PrintSpace HPOS="0" VPOS="0" WIDTH="2880" HEIGHT="3520">
+                <TextBlock ID="textblock_1">
+                    
+                    <TextLine ID="line_0" HPOS="2312.0" VPOS="177.0" WIDTH="51.0" HEIGHT="98.0" BASELINE="2316.0 256.0 2363.0 254.0" TAGREFS="TYPE_1">
+                        <Shape>
+                            <Polygon POINTS="2316.0 256.0 2316.0 275.0 2361.0 271.0 2363.0 254.0 2353.0 177.0 2312.0 197.0 2316.0 256.0"/>
+                        </Shape>
+                        <String ID="segment_0" CONTENT="4" HPOS="2321" VPOS="192" WIDTH="4" HEIGHT="82" WC="0.9979">
+                            <Shape>
+                                <Polygon POINTS="2321 192 2325 274 2325 274 2321 192"/>
+                            </Shape>
+                            <Glyph ID="char_0" CONTENT="4" HPOS="2321" VPOS="192" WIDTH="4" HEIGHT="82" GC="0.9979">
+                                <Shape>
+                                    <Polygon POINTS="2321 192 2325 274 2325 274 2321 192"/>
+                                </Shape>
+                            </Glyph>
+                        </String>
+                    </TextLine>
+
+                </TextBlock>
+            </PrintSpace>
+        </Page>
+    </Layout>
+</alto>

@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v4#" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-3.xsd">
+    <Description>
+        <MeasurementUnit>pixel</MeasurementUnit>
+        <sourceImageInformation>
+            <fileName>ark_15733_2z7d_ark_15733_2q09_BIS_00_00618_P024_0001.jpg</fileName>
+        </sourceImageInformation>
+        <Processing ID="OCR_1">
+            <processingCategory>contentGeneration</processingCategory>
+            <processingStepDescription>Text line recognition</processingStepDescription>
+            <processingStepSettings>text_direction: horizontal-tb; models: catmus-print-fondue-large.mlmodel; pad: 16; bidi_reordering: True; </processingStepSettings>
+            <processingSoftware>
+                <softwareName>kraken</softwareName>
+                <softwareVersion>4.3.13</softwareVersion>
+            </processingSoftware>
+        </Processing>
+    </Description>
+    <Tags>
+        <OtherTag ID="TYPE_1" LABEL="default"/>
+    </Tags>
+    <Layout>
+        <Page WIDTH="1568" HEIGHT="2424" PHYSICAL_IMG_NR="1" ID="page_1">
+            <PrintSpace HPOS="0" VPOS="0" WIDTH="1568" HEIGHT="2424">
+                <TextBlock ID="textblock_1">
+                    
+                    <TextLine ID="line_0" HPOS="96.0" VPOS="8.0" WIDTH="18.0" HEIGHT="33.0" BASELINE="96.0 28.0 114.0 28.0" TAGREFS="TYPE_1">
+                        <Shape>
+                            <Polygon POINTS="96.0 28.0 96.0 41.0 114.0 41.0 114.0 28.0 114.0 8.0 96.0 8.0 96.0 28.0"/>
+                        </Shape>
+                        <String ID="segment_0" CONTENT="4" HPOS="98" VPOS="8" WIDTH="0" HEIGHT="33" WC="0.9993">
+                            <Shape>
+                                <Polygon POINTS="98 8 98 41 98 41 98 8"/>
+                            </Shape>
+                            <Glyph ID="char_0" CONTENT="4" HPOS="98" VPOS="8" WIDTH="0" HEIGHT="33" GC="0.9993">
+                                <Shape>
+                                    <Polygon POINTS="98 8 98 41 98 41 98 8"/>
+                                </Shape>
+                            </Glyph>
+                        </String>
+                    </TextLine>
+
+                    
+                    <TextLine ID="line_1" HPOS="115.0" VPOS="533.0" WIDTH="33.0" HEIGHT="75.0" BASELINE="119.0 570.0 144.0 568.0" TAGREFS="TYPE_1">
+                        <Shape>
+                            <Polygon POINTS="119.0 570.0 123.0 608.0 148.0 607.0 144.0 568.0 138.0 533.0 115.0 535.0 119.0 570.0"/>
+                        </Shape>
+                        <String CONTENT=""/>
+                    </TextLine>
+
+                    
+                    <TextLine ID="line_2" HPOS="494.0" VPOS="70.0" WIDTH="60.0" HEIGHT="37.0" BASELINE="495.0 92.0 554.0 90.0" TAGREFS="TYPE_1">
+                        <Shape>
+                            <Polygon POINTS="495.0 92.0 495.0 103.0 553.0 107.0 554.0 90.0 550.0 70.0 494.0 72.0 495.0 92.0"/>
+                        </Shape>
+                        <String CONTENT=""/>
+                    </TextLine>
+
+                    
+                    <TextLine ID="line_3" HPOS="986.0" VPOS="117.0" WIDTH="74.0" HEIGHT="33.0" BASELINE="986.0 136.0 1060.0 136.0" TAGREFS="TYPE_1">
+                        <Shape>
+                            <Polygon POINTS="986.0 136.0 986.0 148.0 1058.0 150.0 1060.0 136.0 1060.0 118.0 986.0 117.0 986.0 136.0"/>
+                        </Shape>
+                        <String CONTENT=""/>
+                    </TextLine>
+
+                    
+                    <TextLine ID="line_4" HPOS="980.0" VPOS="145.0" WIDTH="53.0" HEIGHT="48.0" BASELINE="980.0 175.0 1033.0 175.0" TAGREFS="TYPE_1">
+                        <Shape>
+                            <Polygon POINTS="980.0 175.0 980.0 193.0 1033.0 188.0 1033.0 175.0 1033.0 145.0 980.0 145.0 980.0 175.0"/>
+                        </Shape>
+                        <String CONTENT=""/>
+                    </TextLine>
+
+                    
+                    <TextLine ID="line_5" HPOS="1270.0" VPOS="579.0" WIDTH="52.0" HEIGHT="62.0" BASELINE="1270.0 597.0 1322.0 597.0" TAGREFS="TYPE_1">
+                        <Shape>
+                            <Polygon POINTS="1270.0 597.0 1270.0 641.0 1322.0 635.0 1322.0 597.0 1321.0 579.0 1270.0 580.0 1270.0 597.0"/>
+                        </Shape>
+                        <String CONTENT=""/>
+                    </TextLine>
+
+                </TextBlock>
+            </PrintSpace>
+        </Page>
+    </Layout>
+</alto>
