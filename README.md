@@ -1,4 +1,4 @@
-# Alto2txt
+# Chaîne de traitement de l'image au texte appliqué à la NuBIS
 
 Ce script python permet la renumérotation de fichiers ALTO XML et la génération du texte contenu dans ces fichiers dans des fichiers txt.
 
