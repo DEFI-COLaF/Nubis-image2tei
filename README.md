@@ -1,14 +1,26 @@
 # Chaîne de traitement de l'image au texte appliqué à la NuBIS
 
-Ce script python permet la renumérotation de fichiers ALTO XML et la génération du texte contenu dans ces fichiers dans des fichiers txt.
+Ce dépôt a été produit dans le cadre d'une collaboration entre la Bibliothèque interuniversitaire de la Sorbonne ([Nubis](https://www.bis-sorbonne.fr/nubis)) et le projet [COLAF](https://colaf.huma-num.fr), géré par l'équipe projet [ALMAnaCH](https://team.inria.fr/almanach/) de l'[Inria](https://www.inria.fr).
 
-Le script s'utilise sur des fichiers ALTO XML contenus dans un dossier principal [Dossier_contenant]. L'option renumérotation permet d'aligner la numérotation dans la balise Page à celle indiquée dans le nom du fichier. Le fichier texte produit correspond aux transcriptions contenues dans les fichiers ALTO d'un document, matérialisé par un dossier par document. Un fichier exemple est disponible si besoin.
+## Objectif
+Le projet traite des monographies et autres textes numérisés par la BIS, couvrant des documents du 15ème au 20ème siècle dans plusieurs langues (latin, français, italien, espagnol, par ordre d'importance). Ce dépôt contient les scripts développés pour :
 
-## Guide d'utilisation
-  - Cloner le dépôt sur sa machine: ```git clone https://github.com/DeFI-COLaF/alto2txt``` et rentrer dans le dossier créé (```cd alto2txt```)
-  - Créer l'environnement: ```python3 -m venv venv-alto```
-  - Lancer l'environnement: ```source env-alto/bin/activate```
-  - Installer les librairies nécessaires: ```pip install -r requirements.txt```
-  - Lancer l'application: ```python3 alto2txt.py [Dossier_contenant] -t -n```
-  Si l'on souhaite uniquement la génération des textes, conserver le ```-t``` des deux options, si l'on souhaite uniquement la rénumérotation des fichiers ALTO, conserver le ```-n``` uniquement.
-  - Arrêter l'environnement: ```source env/bin/deactivate```
+- Transformer les images numérisées des documents en fichiers ALTO XML.
+- Renuméroter et nettoyer les fichiers ALTO XML obtenus selon les souhaits de la Nubis.
+- Générer une version texte du contenu textuel de chaque document, répondant aux besoins spécifiques de Nubis.
+
+## Contenu du dépôt
+
+### 1. Dossier `1_image2alto`
+Ce dossier contient les scripts utilisés pour générer des fichiers ALTO XML à partir des images numérisées via la librairie python **[Release the Kraken (RTK)](https://kraken.re/)**.
+
+### 2. Dossier `2_alto2txt`
+Ce dossier contient un script Python conçu pour nettoyer et renuméroter les fichiers ALTO XML selon les spécifications de Nubis et générer un fichier texte contenant le contenu textuel de chaque document.
+
+## Licence
+![Licence CC-BY](https://licensebuttons.net/l/by/4.0/88x31.png)
+
+Les scripts de ce dépôt sont librement réutilisables et adaptables sous licence [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
+
+## Contact
+Pour toute question ou demande, n'hésitez pas à consulter les contacts et informations dans la documentation.
