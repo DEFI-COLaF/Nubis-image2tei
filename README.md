@@ -12,7 +12,7 @@ Le projet traite des monographies et autres textes numérisés par la BIS, couvr
 ## Contenu du dépôt
 
 ### 1. Dossier `1_image2alto`
-Ce dossier contient les scripts utilisés pour générer des fichiers ALTO XML à partir des images numérisées via la librairie python **[Release the Kraken (RTK)](https://kraken.re/)**.
+Ce dossier contient les scripts utilisés pour générer des fichiers ALTO XML à partir des images numérisées via la librairie python **[Release the Kraken (RTK)](https://github.com/PonteIneptique/rtk)**.
 
 ### 2. Dossier `2_alto2txt`
 Ce dossier contient un script Python conçu pour nettoyer et renuméroter les fichiers ALTO XML selon les spécifications de Nubis et générer un fichier texte contenant le contenu textuel de chaque document.
