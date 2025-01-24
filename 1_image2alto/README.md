@@ -27,9 +27,9 @@ Ce projet nécessite l'utilisation d'un GPU.
 6. ***Créer un fichier ```status_bis.txt```*** qui contient 0
 
 ### Installation des dépendances
-1.***Créer un environnement virtuel***: ```python3 -m venv venv-image2alto```
-2.***Installer les dépendances spécifiques à RTK***: se référer aux informations fournies sur le dépôt de la librairie 
-3.***Installer la dépendance spécifique à image2txt***: ```pip3 install click```
+1. ***Créer un environnement virtuel***: ```python3 -m venv venv-image2alto```
+2. ***Installer les dépendances spécifiques à RTK***: se référer aux informations fournies sur le dépôt de la librairie 
+3. ***Installer la dépendance spécifique à image2txt***: ```pip3 install click```
 
 ### Lancement
 1. ***Vérifier que le programme fonctionne***: ```sh batch_process.sh```
