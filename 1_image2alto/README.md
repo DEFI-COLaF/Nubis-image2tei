@@ -38,6 +38,6 @@ Ce projet nécessite l'utilisation d'un GPU.
 3. ***Ajouter la ligne***:
    ```*/4 * * * * sh [chemin vers batch_process.sh] >> crontab_log.log 2<&1```
    
-Toutes les quatre minutes, le programme va vérifier si un job est déjà en cours et si non, en lancer un nouveau (batch_process.sh). Un job correspond au traitement d'un lot de 200 images (dans rtk_bis.py), chacun étant numéroté (le numéro traité sur le moment est dans status_bis.txt). Les logs de lancement sont disponibles dans le fichier crontab_log.log et les logs de chaque job dans un dossier logs.
+Toutes les quatre minutes, le programme va vérifier si un job est déjà en cours et si non, en lancer un nouveau (batch_process.sh). Un job correspond au traitement d'un lot de 200 images (dans rtk_bis.py), chacun étant numéroté (le numéro traité sur le moment est dans status_bis.txt). Les logs de lancement sont disponibles dans le fichier crontab_log.log et les logs de chaque job dans un dossier logs. Il faut supprimer le crontab quand toutes les images ont été traitées.
 
    
